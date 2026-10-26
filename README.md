@@ -225,7 +225,3 @@ Possible extensions of this work include:
 ## 👤 Author
 
 **Amir Rezaei**
-
-Materials Researcher | Data & Machine Learning Enthusiast
-
-Interested in the intersection of **materials science, data-driven modelling, artificial intelligence, and real-world engineering problems**.
